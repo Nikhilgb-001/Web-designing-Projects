@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+.carousel {
+    width: 95%;
+    height:600px;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h3{
+    text-align: center;
+  }
+#img-1{
+    height: 500px;
+}
+#img-2{
+    height: 500px;
+}
+#img-3{
+    height: 500px;
+}
+
+#sec-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: -15px;
+    margin-bottom: 70px;
+}
+.card{
+    margin-bottom: 20px;
+}
+#pdf{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-bottom:50px;
+}
+#hr-1{
+    width: 0px;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #40514E; 
+    border-radius: 4px;
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+  input[type=submit] {
+    background-color: #0497aa;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a094;
+  }
+  
+  #contact{
+    border-radius: 5px;
+    background-color: #F6F6F6;
+    border:2px solid#40514E;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+
+  }
